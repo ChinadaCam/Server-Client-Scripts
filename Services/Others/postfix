@@ -1,0 +1,23 @@
+#!/bin/bash
+#echo sudo su
+
+apt-get -y install postfix
+dpkg-reconfigure postfix
+
+cat >> /etc/postfix/main.cf <<EOF
+home_mailbox = Maildir/
+resolve_numeric_domain = yes
+EOF
+
+apt-get -y install mailutils
+apt-get -y install courier-imap
+
+maildirmake /etc/skel/Maildir
+
+/etc/init.d/courier-imap restart
+/etc/init.d/courier-authdaemon restart
+/etc/init.d/postfix restart
+
+clear
+
+service postfix status
