@@ -109,8 +109,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
+[![LinkedIn][linkedin-shield]][linkedin-url]  <a href="https://twitter.com/fuckingfaustino">
+    <img alt="Twitter: fuckingfaustino" src="https://img.shields.io/twitter/follow/fuckingfaustino.svg?style=social" target="_blank" />
+  </a>
 
-Your Name - [@fuckingfaustino](https://twitter.com/fuckingfaustino) - tiagfaustino@gmail.com
+Tiago Faustino - tiagfaustino@gmail.com
 
 Project Link: [https://github.com/HackTheBit/Server-Client-Scripts](https://github.com/HackTheBit/Server-Client-Scripts)
 
