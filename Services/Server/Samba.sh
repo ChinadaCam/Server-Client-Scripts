@@ -6,7 +6,7 @@ mkdir /home/samba/CIBER
 mkdir /home/samba/SEGURANCA 
 mkdir /home/samba/LINUX 
 
-cat > /etc/samba/smb.conf <<EOF
+cat >> /etc/samba/smb.conf <<EOF
 	
 [CIBER]
 comment = Samba
