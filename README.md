@@ -83,6 +83,9 @@ chmod 777 "name of the script"
 <!-- Suggestions and Issues -->
 ## Roadmap
 
+Creators: [Dam3](https://github.com/D4m666) and [ChinadaCam](https://github.com/ChinadaCam)
+
+
 See the [open issues](https://github.com/HackTheBit/Server-Client-Scripts/issues) for a list of proposed features (and known issues).
 Give us some [suggestions](https://github.com/HackTheBit/Server-Client-Scripts/labels/suggestions)
 
@@ -114,6 +117,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
   </a>
 
 Tiago Faustino - tiagfaustino@gmail.com
+
 
 Project Link: [https://github.com/HackTheBit/Server-Client-Scripts](https://github.com/HackTheBit/Server-Client-Scripts)
 
