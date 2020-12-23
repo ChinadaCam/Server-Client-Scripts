@@ -83,6 +83,7 @@ EOF
 				apt-get -y purge autoremove courier-imap
 				echo "$COL_YELLOW[!] $COL_RESET  Service Uninstalled"
 				
+			;;
 
 			QUIT)
 				echo "$COL_GREEN[*] $COL_RESET BYE"
